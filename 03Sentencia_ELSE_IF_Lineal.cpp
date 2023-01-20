@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// listo
 int main() {
 	float n = 0.000001;
 	
