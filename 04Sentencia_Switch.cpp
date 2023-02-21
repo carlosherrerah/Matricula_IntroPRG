@@ -5,6 +5,7 @@ int main() {
 	// Entrada 
 	int opcion=1;
 	char opc = 'a';
+	string option = "uno";
 	float a=5, b=6, c;
 	
 	switch (opcion) {
